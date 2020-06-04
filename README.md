@@ -2,6 +2,8 @@
 
 ![Alt Text](https://github.com/BUEC500C1/codvid-app-Bonniesty/blob/master/scheenshot/demo.gif)
 
+ Data source:  ``` https://api.covid19api.com ```
+
  ## Install
  ```
  npm install
